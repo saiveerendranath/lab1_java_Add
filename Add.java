@@ -5,6 +5,6 @@ public class Add
         int a=10;
         int b=10;
         int c=a+b;
-        System.out.println(c);
+        System.out.println("fuck"+c);
     }
 }
